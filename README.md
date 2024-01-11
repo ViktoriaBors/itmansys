@@ -24,4 +24,5 @@ One distinctive approach I took was in designing the database structure. Instead
 3. C#
 4. MySQL
 
-## Deployed: 2024. January -  [click here to download the exe file]( https://www.viktoria-pajuste.hu/ )
+## Deployed: 2024. January -  click [here]( https://fromlabtoweb.hu/itmansys/publish.zip ) to download.
+After download, EXTRACT the zip files and then run the SETUP file.
